@@ -1,20 +1,25 @@
-### Oie, sou a Regiane Alves, uma DBA se aventurando no mundo DEV! 👩‍💻
-
-
-
-💻 Hoje atuo na administração de bases SQL, Oracle, Mongo e Postgress
-
-📓 Estou me aventurando nos estudos de Python e Java
-
-❤️ Coração quentinho por Devops e Ciência de Dados
-	
 <div align = "center">
+	<h1>Oie, aqui existe uma DBA se aventurando no mundo DEV! 👩‍💻</h1>
+</div><br>
+
+
+<div>
+	<p>💻 Hoje atuo na administração de bases SQL, Oracle, Mongo e Postgress </p>
+	<p>📓 Estou me aventurando nos estudos de Python e Java</p>
+	<p>❤️ Coração quentinho por Devops e Ciência de Dados</p>
+
+</div><br>
+
+<div align = "justify">
+
   <a href="https://github.com/regianelima">
-  <img height = "180em" src = "https://github-readme-stats.vercel.app/api?username=regianelima&show_icons=true&theme=merko&include_all_commits=true&count_private=true" />
-  <img height = "180em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=regianelima&layout=compact&langs_count=7&theme=merko" />
-</div>
+  <img height = "180em" src = "https://github-readme-stats.vercel.app/api?username=regianelima&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+  <br>
+  <img height = "180em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=regianelima&layout=compact&langs_count=7&theme=dracula" />
+	   
+ </div>
   
-<div style = "display: grid"> <br>
+<div style = "display: inline-block"> <br>
   <img align = "center" alt = "Re-Sql" height = "50" width = "150" src = "https://github.com/regianelima/scriptsBanco/blob/main/imagem/microsoftsqlserver-plain-wordmark.svg">
   <img align = "center" alt = "Re-Post" height = "50" width = "100" src = "https://github.com/regianelima/scriptsBanco/blob/main/imagem/postgresql-original-wordmark.svg">
   <img align = "center" alt = "Re-Oracle" height = "50" width = "100" src = "https://github.com/regianelima/scriptsBanco/blob/main/imagem/oracle-original.svg">
@@ -23,7 +28,7 @@
   <img align = "center" alt = "Re-Java" height = "50" width = "100" src = "https://github.com/regianelima/scriptsBanco/blob/main/imagem/java-original-wordmark.svg">
   <img align = "center" alt = "Re-Docker" height = "50" width = "100" src = "https://github.com/regianelima/scriptsBanco/blob/main/imagem/docker-original-wordmark.svg">
    <img align = "center" alt = "Re-Kub" height = "50" width = "150" src = "https://github.com/regianelima/scriptsBanco/blob/main/imagem/kubernetes-plain-wordmark.svg">
-  <img align = "right" alt = "Re-pic" height = "150" style = "border-radius: 50px;" src = "https://media.discordapp.net/attachments/916381882738950184/916385943030726656/output_Vgc3JM.gif?width=369&height=369">
+ 
 </div>
   
   ##
