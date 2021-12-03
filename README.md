@@ -20,7 +20,7 @@
  </div>
   
 <div style = "display: inline-block"> <br>
-  <img align = "center" alt = "Re-Sql" height = "50" width = "100" src = "https://github.com/regianelima/scriptsBanco/blob/main/imagem/microsoftsqlserver-plain-wordmark.svg">
+  <img align = "center" alt = "Re-Sql" height = "50" width = "100" src = "https://user-images.githubusercontent.com/6154672/144677855-d0542a39-5c90-4733-80f2-c224b4cbb88f.jpg">
   <img align = "center" alt = "Re-Post" height = "50" width = "100" src = "https://github.com/regianelima/scriptsBanco/blob/main/imagem/postgresql-original-wordmark.svg">
   <img align = "center" alt = "Re-Oracle" height = "50" width = "100" src = "https://github.com/regianelima/scriptsBanco/blob/main/imagem/oracle-original.svg">
   <img align = "center" alt = "Re-Mongo" height = "50" width = "100" src = "https://github.com/regianelima/scriptsBanco/blob/main/imagem/mongodb-original-wordmark.svg">
