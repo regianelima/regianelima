@@ -4,9 +4,9 @@
 
 
 <div>
-	<p>💻 Hoje atuo na administração de bases SQL, Oracle, Mongo e Postgress </p>
-	<p>📓 Estou me aventurando nos estudos de Python e Java</p>
-	<p>❤️ Coração quentinho por Devops e Ciência de Dados</p>
+	<p>💻 Hoje atuo na administração de bases SQL, Oracle e Mongo</p>
+	<p>📓 Estou me aventurando nos estudos de Ciência de Dados ❤️</p>
+	
 
 </div><br>
 
