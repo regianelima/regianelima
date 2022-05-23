@@ -1,11 +1,11 @@
 <div align = "center">
-	<h1>Oie, aqui existe uma DBA se aventurando no mundo DEV! 👩‍💻</h1>
+	<h1>Oie, aqui existe uma DBA se aventurando em outros mundos! 👩‍💻</h1>
 </div><br>
 
 
 <div>
 	<p>💻 Hoje atuo na administração de bases SQL, Oracle e Mongo</p>
-	<p>📓 Estou me aventurando nos estudos de Ciência de Dados ❤️</p>
+	<p>📓 Mas minha nova aventura é conhecer e estudar Ciência de Dados ❤️</p>
 	
 
 </div><br>
