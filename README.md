@@ -25,9 +25,7 @@
   <img align = "center" alt = "Re-Oracle" height = "50" width = "100" src = "https://github.com/regianelima/scriptsBanco/blob/main/imagem/oracle-original.svg">
   <img align = "center" alt = "Re-Mongo" height = "50" width = "100" src = "https://github.com/regianelima/scriptsBanco/blob/main/imagem/mongodb-original-wordmark.svg">
   <img align = "center" alt = "Re-Python" height = "50" width = "100" src = "https://github.com/regianelima/scriptsBanco/blob/main/imagem/python-original-wordmark.svg">
-  <img align = "center" alt = "Re-Java" height = "50" width = "100" src = "https://github.com/regianelima/scriptsBanco/blob/main/imagem/java-original-wordmark.svg">
-  <img align = "center" alt = "Re-Docker" height = "50" width = "100" src = "https://github.com/regianelima/scriptsBanco/blob/main/imagem/docker-original-wordmark.svg">
-   <img align = "center" alt = "Re-Kub" height = "50" width = "100" src = "https://github.com/regianelima/scriptsBanco/blob/main/imagem/kubernetes-plain-wordmark.svg">
+
  
 </div>
   
