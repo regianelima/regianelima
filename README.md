@@ -7,9 +7,10 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:regianelima.ads@gmail.com)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/regianelimaads)
 
-*** 
+<br>
 
-## Um pouco sobre mim... <img src="https://media.giphy.com/media/1wmcpshIDQXQbqDSuZ/giphy.gif" width="30">
+
+## <img src="https://media.giphy.com/media/1wmcpshIDQXQbqDSuZ/giphy.gif" width="30"> Um pouco sobre mim... <img src="https://media.giphy.com/media/1wmcpshIDQXQbqDSuZ/giphy.gif" width="30">
 <br/>
 <div style="display: inline_block"><img align="right" alt="Re" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/6154672/197346872-645fac1b-4b63-431a-acea-af73653c83e6.PNG">
 </div>
@@ -63,9 +64,8 @@
 <br/>
 
 
-<p align="center" >
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=regianelima&theme=default" >
 
+![Regiane's GitHub stats](https://github-readme-stats.vercel.app/api?username=regianelima&show_icons=true&theme=radical)
 
 
 
