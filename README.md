@@ -15,13 +15,13 @@
 <div style="display: inline_block"><img align="right" alt="Re" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/6154672/197346872-645fac1b-4b63-431a-acea-af73653c83e6.PNG">
 </div>
 
-- 💾 Adoro tecnologia desde a época do disquete 😄
+- 💾  Adoro tecnologia desde a época do disquete 😄
 <br/><br/>
-- 🐶 Sou apaixonada por animais 🐈
+- 🐶  Sou apaixonada por animais 🐈
 <br/><br/>
 - ⚡️ Adoro perder tempo com reality show bizarros ⚡️
 <br/><br/>
-- 🍲 Amo cozinhar e comer, 🍽️
+- 🍲  Amo cozinhar e comer 🍽️
 <br/><br/>
 - 📚 Trabalho como Administradora de Banco de Dados (DBA), mas estou focada em novas tecnologias para me tornar DBRE, pois isso vai facilitar muito minha vida 🏖️
 <br/>
