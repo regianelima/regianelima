@@ -6,7 +6,7 @@
 Sou uma apaixonada por tecnologia, pelos animais e pela minha pequena Rafa. Profissionalmente atuo como <strong>Administradora de Banco de Dados</strong> ou como é mais chamado <strong>DBA</strong>.
 </p>
 
-Sou graduada em Análise e Desenvolvimento de Sistemas e atualmente curso pós-graduação em Engenharia de Banco de Dados na Infnet.
+Sou graduada em Análise e Desenvolvimento de Sistemas e atualmente divido meu tempo entre estudar automação, tratamento de dados e acompanhar as novidades que são muitas em nossa área.
 
 Atuo com SQL Server, Oracle, Mongo, porém sempre aprendendo novas tecnologias voltadas para o meu dia a dia, como Zabbix e Grafana (monitoramento), Terraform, Ansible, Powershell para automações e por aí vai.
 
