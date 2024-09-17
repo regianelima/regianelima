@@ -72,14 +72,7 @@ Vou usar meu perfil aqui para compartilhar o que for aprendendo e meus laborató
         alt="Github stats"
       />
     </td>
-    <td>
-      <br />
-      <img
-        align="left"
-        src="https://github-readme-streak-stats.herokuapp.com/?user=regianelima&theme=dark&hide_border=false"
-        alt="Github stats"
-      />
-    </td>
+    
   </tr>
 </table>
 
