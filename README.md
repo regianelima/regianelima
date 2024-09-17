@@ -10,6 +10,8 @@ Sou graduada em Análise e Desenvolvimento de Sistemas e atualmente divido meu t
 
 Atuo com SQL Server, Oracle, Mongo, porém sempre aprendendo novas tecnologias voltadas para o meu dia a dia, como Zabbix e Grafana (monitoramento), Terraform, Ansible, Powershell para automações e por aí vai.
 
+Iniciei minha pós-graduação em Engenharia de Dados, na Datasciense Academy e tenho como objetivo ampliar minha área de atuação, e evoluir no "Mundo dos Dados"
+
 Vou usar meu perfil aqui para compartilhar o que for aprendendo e meus laboratórios, então caso precise de alguma ajuda, só me procurar!
 <br><br>
 <h2 align="left">
